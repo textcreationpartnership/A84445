@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Additionall orders and rules agreed and resolved by the Commissioners of Excise, to be observed by all sub-commissioners and their deputies in the severall port towns, throughout England and Wales, for the due managing of the said ports in relation to goods imported or exported.</title>
+            <author>England and Wales. Commissioners of Excise.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84445</idno>
+            <idno type="STC">Wing E742B</idno>
+            <idno type="STC">ESTC R176050</idno>
+            <idno type="EEBO-CITATION">45789286</idno>
+            <idno type="OCLC">ocm 45789286</idno>
+            <idno type="VID">172597</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84445)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172597)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2640:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Additionall orders and rules agreed and resolved by the Commissioners of Excise, to be observed by all sub-commissioners and their deputies in the severall port towns, throughout England and Wales, for the due managing of the said ports in relation to goods imported or exported.</title>
+                  <author>England and Wales. Commissioners of Excise.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Macock, and Gartrude Dawson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Excise tax --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="rules_for_sub-commissioners_of_the_excise">
+            <pb n="1" facs="tcp:172597:1" rendition="simple:additions"/>
+            <head>Additionall ORDERS AND RULES Agreed and Reſolved by The Commiſſioners of Exciſe, to be Ob<g ref="char:EOLhyphen"/>ſerved by all Sub-Commiſſioners and their Deputies in the ſeverall Port Towns, throughout <hi>England</hi> and <hi>Wales,</hi> for the due managing of the ſaid Ports in relation to goods Imported or Exported.</head>
+            <p n="1">I.</p>
+            <p>
+               <seg rend="decorInit">Y</seg>OU are to Sign no Warrant for the taking up of any Goods or Merchan<g ref="char:EOLhyphen"/>dize before the Mer<g ref="char:EOLhyphen"/>chant hath made due Entrie under his hand with you, or paid the Duty of Exciſe: all which Enteries you are to keep upon a File in the Office of Exciſe, and to
+<pb n="2" facs="tcp:172597:2"/>keep a Regiſter Book of thoſe Entires, fair written.</p>
+            <p n="2">II. You are from the ſaid Entries, to frame and keep an Accompt with every parti<g ref="char:EOLhyphen"/>cular Merchant in a fair leadger book in the way of Debtor and Creditor, making him Debtor for what he imports, and Creditor for what he ſells and tranſports again.</p>
+            <p n="3">III. You are to admit of no Certificate for any goods, coming from any Port of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> or <hi>Wales,</hi> but what is ſigned by the Of<g ref="char:EOLhyphen"/>ficers for the Exciſe; beſides the Certificate, ſigned by the Officers for the Cuſtomes and Exciſe.</p>
+            <p n="4">IV. You are ſtrictly to hold the Shop<g ref="char:EOLhyphen"/>keeper, and Conſumptioner that imports any goods of his own Trade, to the Rule of the Act, <hi>viz.</hi> not to ſuffer him to take away his goods being duly entred, until veiwed by the ſworn Officers, and the Exciſe paid, ac<g ref="char:EOLhyphen"/>cording to the fifteenth Article.</p>
+            <p n="5">V. You are according to the twenty fifth Article, forthwith to appoint Officers to take view of all Merchants goods reſting in their Ware-houſes, Cellers, <hi>&amp;c.</hi> and to ſee what goods they have remaining upon their hands, and to compare the returns made by thoſe Officers, with the particular accompts of the Merchants in your book, and for all that
+<pb n="3" facs="tcp:172597:2"/>is not duly diſcharged in your book, by Sale, Certificate of Expoſtation, allowance for leakadge defects, waſte accidents, and the like, and is not upon their hands; you are forth<g ref="char:EOLhyphen"/>with to require Exciſe for the ſame, and then you are to adjuſt his accompt unto that day, and to transfer the reſſat upon a new ac<g ref="char:EOLhyphen"/>compt.</p>
+            <p n="6">VI. You are ſtrictly to look after the ſhipping of all goods outwards, eſpecially ſuch as are to be ſent from Port to Port, that you ſuffer none to paſs without a Certificate from you directed to the Sub-Commiſſioners in the Port to which it goes, or to the Surveyor-General in the Port of <hi>London</hi> if ſent thither, in which Certificate to be particularly expreſſ<g ref="char:EOLhyphen"/>ed, <hi>viz.</hi>
+               <list>
+                  <item>1. <hi>The name of the Ship or Veſſel, carry<g ref="char:EOLhyphen"/>ing the ſame, and the Maſter there<g ref="char:EOLhyphen"/>of.</hi>
+                  </item>
+                  <item>2. <hi>The true denomination and number of the Bales, Packs, Casks, or other Veſſels, in which the ſaid commodities are con<g ref="char:EOLhyphen"/>tained.</hi>
+                  </item>
+                  <item>3. <hi>The net, weight, meaſure, or juſt contents and values of the ſeveral commodities expreſſed in words, and not in figures.</hi>
+                  </item>
+                  <item>4. <hi>To expreſs whether the duty of Exciſe be paid, and when or whether Bond be
+<pb n="4" facs="tcp:172597:3"/>entred into for the delivering, and due entry of the goods in the Office of Exciſe in the Port, whither the goods are ſent, and the time when, this to be particularly expreſſed, and not under thoſe general words accuſtomarily uſed,</hi> viz. <hi>for which ſatisfaction is given.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="7">VII. You are quarterly to ſend up an accompt of all fines and forfeitures by you levied, together with the receipts of all ſuch in<g ref="char:EOLhyphen"/>formants, and other perſons to whom the moi<g ref="char:EOLhyphen"/>ety of ſuch fines, and forfeitures, ſhall be by you diſpoſed of and given, deducting the neceſſary charges from the whole, according to the forty firſt Article of the ſaid Act.</p>
+            <p n="8">VIII. You are to keep due Regiſter of all the judicial proceedings, entring into the ſame the proof made upon any information, and all other things neceſſary for the clearing of your proceedings, according to the Rule of the Act; and you are to enter in a book by it ſelf all Affidavits, which ſhal be taken from time to time, by any perſon, either for the clearing and diſcharging of any accompts, for deliver<g ref="char:EOLhyphen"/>ing up any Bond; which Affidavits ſo taken are to be ſigned and ſubſcribed by ſuch perſon or perſons as ſhall make the ſame accord<g ref="char:EOLhyphen"/>ingly.</p>
+            <p n="9">IX. In all your warrants for the Com<g ref="char:EOLhyphen"/>mitment
+<pb n="5" facs="tcp:172597:3"/>of any perſon to Priſon, you are to certifie the cauſe, and your proceedings according to the Rule of the Act.</p>
+            <p n="10">X. You are to cloſe your accompt at the quarter, and forthwith to ſend the ſame, ob<g ref="char:EOLhyphen"/>ſerving ſuch form in the keeping &amp; making up your accompts as ſhall be preſcribed to you by the Accomptant General appointed by the Commiſſioners for the Office of Exciſe <hi>London.</hi>
+            </p>
+            <p n="11">XI. You are to receive no monies due for Exciſe privately, the one without the cognizance of the other, but in the Office or place in which you ſit for the receipt of the ſame, and you are to enter to accompt all monies received, preciſely upon the ſame day you receive it.</p>
+            <p n="12">XII. If any Veſſel bound for <hi>London,</hi> from any other Port, touch at your Port, and there deliver or unload any of the goods men<g ref="char:EOLhyphen"/>tioned in any of their Certificates, you are required to certifie what of the ſaid goods are landed with you, either on the back of the Certificate, or writing diſtinct, mentioning it to be part of ſuch a Certificate.</p>
+            <p n="13">XIII. You are enjoyned to ſend up Tranſcripts of all ſuch Tickets and Certificates as have already come to your hands from any Port, Place, or Sub-Commiſſioner, ſince the
+<pb n="6" facs="tcp:172597:4"/>25 of <hi>March</hi> 1654. and for the future, quar<g ref="char:EOLhyphen"/>terly to ſend up with your accompt, tranſcripts of all ſuch Tickets and Certificates as ſhall hereafter come to your hands.</p>
+            <p n="14">XIV. For the better prevention of coun<g ref="char:EOLhyphen"/>terfeit Tickets and Forgeries, you are from time to time, to ſend up your own names to<g ref="char:EOLhyphen"/>gether with the name of the Perſon or Perſons imployed under you, or intruſted in your ab<g ref="char:EOLhyphen"/>ſence, in a fair paper, all ſubſcribed by you and them, each man writing his own name thereto ſeverally, and when you make any change of ſubordinate Officers, you are to intimate the ſame in like manner as directed, which paper ſo ſubſcribed is to remain in the Office here, to be compared with the Certificates here as often as received.</p>
+            <p n="15">XV. The Office Seal to be affixed to every Cocquet and Certificate.</p>
+            <p n="16">XVI. And laſtly, you are to take ſpecial care, That you nor your Deputies Sign any Certificate, or let paſs twice for one and the ſame parcel of Goods, that ſhall at any time be tranſported from your Port to any other Port or Place whatſoever.</p>
+         </div>
+         <div type="order_of_commissioners_of_the_excise">
+            <pb n="7" facs="tcp:172597:4"/>
+            <opener>
+               <dateline>
+                  <date>May 19. 1654.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Commiſsioners of the Exciſe, That the foregoing Orders be obſerved of all and every the Sub-Commiſsi<g ref="char:EOLhyphen"/>oners of the Ports accordingly.</p>
+            <closer>
+               <signed>
+                  <hi>Thomas Tucker,</hi> Regiſter.</signed>
+            </closer>
+            <trailer>
+               <figure>
+                  <figDesc>seal of the Commonwealth from 1649-53 (before the start of the Protectorate in 1653)</figDesc>
+               </figure>
+            </trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>John Macock,</hi> and <hi>Gartrude Dawſon.</hi> 1654.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
